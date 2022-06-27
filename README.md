@@ -1,2 +1,2 @@
 # hi-there
-Mdn training 
+Mdn training for front end developers. Really interesting
